@@ -1,10 +1,10 @@
-<h1 align="center">OrezyyBotz<br></h1>
+<h1 align="center">William Cassanova<br></h1>
 <p align="center">
   <img src="https://i.ibb.co/vHck5hF/image.jpg" width="540" height="540" />
 </p>
 
 <p align="center">
-OrezyyBotz
+William
 </p>
 
 <p align="center">
