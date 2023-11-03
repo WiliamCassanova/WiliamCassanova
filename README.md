@@ -1,6 +1,6 @@
 <h1 align="center">William Cassanova<br></h1>
 <p align="center">
-  <img src="https://i.ibb.co/vHck5hF/image.jpg" width="1000" height="1000" />
+  <img src="https://i.ibb.co/vHck5hF/image.jpg" width="200" height="200" />
 </p>
 
 <p align="center">
