@@ -1,10 +1,10 @@
-<h1 align="center">OrezyyBotz<br></h1>
+<h1 align="center">William Casssanova<br></h1>
 <p align="center">
-  <img src="https://telegra.ph/OrezyyBotz-05-11" width="540" height="300" />
+  <img src="https://ibb.co/wRd4H7k" width="540" height="300" />
 </p>
 
 <p align="center">
-OrezyyBotz
+WilliamCassanova
 </p>
 
 <p align="center">
